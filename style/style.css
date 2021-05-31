@@ -1,0 +1,12 @@
+.card .btn1{
+    color: white;
+    background-color: #7390ba;
+    margin-left: 65%;
+    border: 2px solid black;
+    border-radius: 50px;
+    margin-top: 55%;
+}
+.card-text{
+    margin-left: 40%;
+    margin-top: -120%;
+}
